@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://companieslogo.com/img/orig/TKWY.AS.D-c5272108.png?t=1720244494";
